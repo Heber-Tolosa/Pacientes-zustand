@@ -1,4 +1,3 @@
-import React from "react";
 import { usePatientStore } from "../store/store";
 import PatientsDetails from "./PatientsDetails";
 
